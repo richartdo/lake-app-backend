@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.db
+*.db-journal
+npm-debug.log*
+
+# UTILITUY SCRIPTS
+seed-data.js
+clean-db.js
+reseed-db.js
+check-db.jsnul
